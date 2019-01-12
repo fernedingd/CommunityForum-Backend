@@ -8,7 +8,6 @@ public class CommunityForumApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CommunityForumApplication.class, args);
-		System.out.println("Hello World!");
 	}
 
 }
