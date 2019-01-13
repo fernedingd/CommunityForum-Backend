@@ -5,9 +5,8 @@ import lombok.Setter;
 
 @Getter
 @Setter
-public class Greeting {
+public class SecretHelloWorld extends HelloWorld {
 
-    private String text;
+    private String secretText;
 
-    private String name;
 }
